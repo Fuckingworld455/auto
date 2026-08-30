@@ -1,0 +1,11 @@
+git+https://github.com/cleitonleonel/pyquotex.git
+colorama
+numpy
+requests
+urllib3
+Pillow
+python-telegram-bot
+telethon
+pytz
+socks
+asyncio
